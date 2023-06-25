@@ -1,0 +1,15 @@
+C:\Users\fazai\OneDrive\Documents\Skilvul\bin\Debug\net7.0\Skilvul.exe
+C:\Users\fazai\OneDrive\Documents\Skilvul\bin\Debug\net7.0\Skilvul.deps.json
+C:\Users\fazai\OneDrive\Documents\Skilvul\bin\Debug\net7.0\Skilvul.runtimeconfig.json
+C:\Users\fazai\OneDrive\Documents\Skilvul\bin\Debug\net7.0\Skilvul.dll
+C:\Users\fazai\OneDrive\Documents\Skilvul\bin\Debug\net7.0\Skilvul.pdb
+C:\Users\fazai\OneDrive\Documents\Skilvul\obj\Debug\net7.0\Skilvul.csproj.AssemblyReference.cache
+C:\Users\fazai\OneDrive\Documents\Skilvul\obj\Debug\net7.0\Skilvul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazai\OneDrive\Documents\Skilvul\obj\Debug\net7.0\Skilvul.AssemblyInfoInputs.cache
+C:\Users\fazai\OneDrive\Documents\Skilvul\obj\Debug\net7.0\Skilvul.AssemblyInfo.cs
+C:\Users\fazai\OneDrive\Documents\Skilvul\obj\Debug\net7.0\Skilvul.csproj.CoreCompileInputs.cache
+C:\Users\fazai\OneDrive\Documents\Skilvul\obj\Debug\net7.0\Skilvul.dll
+C:\Users\fazai\OneDrive\Documents\Skilvul\obj\Debug\net7.0\refint\Skilvul.dll
+C:\Users\fazai\OneDrive\Documents\Skilvul\obj\Debug\net7.0\Skilvul.pdb
+C:\Users\fazai\OneDrive\Documents\Skilvul\obj\Debug\net7.0\Skilvul.genruntimeconfig.cache
+C:\Users\fazai\OneDrive\Documents\Skilvul\obj\Debug\net7.0\ref\Skilvul.dll
